@@ -414,7 +414,7 @@ mod json;
 mod local_vars;
 mod output;
 mod partial;
-mod registry;
+pub mod registry;
 mod render;
 mod sources;
 mod support;
